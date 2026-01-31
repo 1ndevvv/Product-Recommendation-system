@@ -37,7 +37,9 @@ This system solves the **Cold Start Problem** by falling back to content similar
 
 ### 1. The Interactive UI
 *Simple and clean dashboard for users.*
-![User Interface](screenshots/ui.png)
+![User Interface](screenshots/ui.png) 
+
+![User Interface](screenshots/ui2.png)
 
 ### 2. The Code Structure
 *Professional folder architecture separating Logic (src), API, and Frontend.*
