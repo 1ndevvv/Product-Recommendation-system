@@ -33,6 +33,27 @@ This system solves the **Cold Start Problem** by falling back to content similar
 
 ---
 
+## 📸 Project Gallery
+
+### 1. The Interactive UI
+*Simple and clean dashboard for users.*
+![User Interface](screenshots/ui.png)
+
+### 2. The Code Structure
+*Professional folder architecture separating Logic (src), API, and Frontend.*
+![Code Structure](screenshots/code.png)
+
+### 3. Backend Execution
+*FastAPI server running in real-time.*
+![Terminal Output](screenshots/terminal.png)
+
+## 🔗 Live Demo
+*Note: This link only works if you are running the app on your own machine.*
+[👉 Open Local App (http://localhost:8501)](http://localhost:8501)
+
+
+
+
 ## 📂 Project Structure
 
 ```bash
