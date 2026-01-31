@@ -50,9 +50,9 @@ This system solves the **Cold Start Problem** by falling back to content similar
 ![Terminal Output](screenshots/terminal.png)
 
 ## 🔗 Live Demo
-*Note: This link only works if you are running the app on your own machine.*
-[👉 Open Local App (http://localhost:8501)](http://localhost:8501)
+🚀 **Try the App Online:** [https://recommendit.streamlit.app/](https://recommendit.streamlit.app/)
 
+*(No installation required! Works in your browser instantly.)*
 
 
 
